@@ -1,0 +1,6 @@
+target/
+.hg/
+.settings/
+.hgignore
+.project
+.classpath

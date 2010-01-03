@@ -10,7 +10,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <h2.version>1.1.104</h2.version>
+        <h2.version>1.2.126</h2.version>
         <hibernate.version>3.4.0.GA</hibernate.version>
     </properties>
 
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>com.google.collections</groupId>
             <artifactId>google-collections</artifactId>
-            <version>0.8</version>
+            <version>1.0-rc5</version>
         </dependency>
 
         <!-- DATABASE DEPENDENCIES -->
